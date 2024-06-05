@@ -16,8 +16,11 @@ Developed a comprehensive React application that allows users to manipulate, for
 # `Technologies Used:`
 
 **Frontend:** React, JavaScript
+
 **Styling:** Bootstrap, CSS
+
 **Routing:** React Router
+
 **State Management:** React State and Props
 
 # `Functionalities:`
